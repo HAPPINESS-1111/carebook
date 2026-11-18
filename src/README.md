@@ -1,0 +1,1 @@
+# carebook-assets

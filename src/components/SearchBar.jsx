@@ -21,7 +21,7 @@ function SearchBar() {
         <option value="">Abuja</option>
         </select>
       </lable>
-      <button className="btn btn-lg">Seacrh</button>
+      <button className="btn btn-lg">Search</button>
     </form>
   )
 }

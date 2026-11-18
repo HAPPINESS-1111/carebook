@@ -13,19 +13,6 @@ export const doctorDetails =[
         rating: {average: 4.5, count: 2}
     },
     {
-        id: "1",
-        name: "Adaeza Okafor",
-        specialty: "General Practice",
-        fee: 5000,
-        bio: "Every care for adults and families.",
-        location: "GRA, Port Harcourt",
-        address: "14 Allen Avenue, GRA Port Harcourt",
-        yearsExperence: 9,
-        qualifications: ["MBBS(Port Harcourt)", "FMCGP"],
-        visitTypes: ["in_person", "video"],
-        rating: {average: 4.5, count: 2}
-    },
-    {
         id: "2",
         name: "Tunde Bakare",
         specialty: "Paediatrics",
@@ -54,14 +41,14 @@ export const doctorDetails =[
     {
         id: "4",
         name: "Bassey Etim",
-        specialty: "Dermatology",
-        fee: 10000,
-        bio: "Skin, hair and nail concerns.",
-        location: "Wuse II, Abuja",
-        address: "22 Aminu kano cresecnt, Wuae II, Abuja",
-        yearsExperence: 7,
-        qualifications: ["MBBS(Nsukka)", "FMCP (Dermatology)"],
+        specialty: "Cardiology",
+        fee: 15000,
+        bio: "Heart health checks and follow-up care.",
+        location: "Ewet Housing, Uyo",
+        address: "2 G-Line, Ewet Housing, Uyo",
+        yearsExperence: 14,
+        qualifications: ["MBBS(Calabar)", "FWACP (Cardiology)"],
         visitTypes: ["in_person", "video"],
-        rating: {average: 4, count: 3}
+        rating: {average: 5, count: 2}
     },
 ]
